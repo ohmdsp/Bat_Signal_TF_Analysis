@@ -1,2 +1,3 @@
-# Bat_Signal_TF_Analysis
-Time-Frequency Analysis of non-stationary bat echo-location signal
+Check our my blog page for a detailed description of this repository.
+
+http://ohmdsp.github.io/time-frequency-analysis-of-nonstationary-signals/
